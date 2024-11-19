@@ -1,4 +1,4 @@
-.. _weblate-cdn:
+htlm.. _weblate-cdn:
 
 Translating HTML and JavaScript using Weblate CDN
 =================================================
